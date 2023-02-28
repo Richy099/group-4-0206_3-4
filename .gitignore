@@ -4,5 +4,4 @@ __pycache__
 *.pytest_cache
 .gitattributes
 !*.zip
-!*.db
-!*Data/im.db
+!Data/im.db
