@@ -12,12 +12,7 @@ We have been tasked with consulting new movie studio, Computing Vision, to explo
 - Stakeholder and Key Biz Questions
 
 
-### Data Understanding and Analysis
-
-- Source of data
-- Description of data
-- Three visualizations
-
+### Data Understanding
 
 In the folder `Data/original_data` are movie datasets from the following movie websites:
 
@@ -31,7 +26,7 @@ Because this data was collected from various locations, the first step will be c
 
 The resulting DB will form a schema that looks like this:
 
-![movie data db_schema](https://github.com/Richy099/group-4-0206_3-4/tree/master/Images/DB_schema.jpg)
+![movie_data_db_schema](/Images/DB_schema.jpg)
 
 Your Jupyter Notebook will walk you through the exact steps of creating this merged database and accessing the data needed for analysis.
 
@@ -45,7 +40,7 @@ The list of files available in the Data folder are as follows:
   * Basic movie info from Rotten Tomatoes  (denoted in dark grey)
 * `rt_reviews.csv`
   * Critic and audience reviews from Rotten Tomatoes (denoted in dark grey)
-* `tmdb.movies.csv
+* `tmdb.movies.csv`
   * Used for movie genres and other pertinent movie info from The Movie Database (denoted in magenta)
 * `tn.movie_budgets.csv`
   * Contains important financial information across thousands of major movie titles (denoted in gold). 
@@ -53,34 +48,17 @@ The list of files available in the Data folder are as follows:
   * An updated, reformatted version of the above.
 
 
+### Data Understanding
+After cloning this repo, navigate to the `group-4-0206_3-4` directory in your terminal. Launch your local Jupyter notebook by typing `jupyter noteook` and navigate to the file `final_group4_notebook`within the Notebooks folder.
+
+Here you will find the steps to connect to the SQLite database and begin manipulating the data necessary for analysis
 
 
 ### Statistical Communication
 - Results of statistical inference 
 - Interpretation of these results in the context of the problem
 
+
 ### Conclusion
 - Summary of conclusions including three relevant findings 
 
-
-
-
-
-
-### Jupyter Notebook
-
-The Jupyter Notebook is a notebook that uses Python and Markdown to present your analysis to a data science audience.
-
-* ***Python and Markdown*** means that you need to construct an integrated `.ipynb` file with Markdown (headings, paragraphs, links, lists, etc.) and Python code to create a well-organized, skim-able document.
-  * The notebook kernel should be restarted and all cells run before submission, to ensure that all code is runnable in order.
-  * Markdown should be used to frame the project with a clear introduction and conclusion, as well as introducing each of the required elements.
-* ***Data science audience*** means that you can assume basic data science proficiency in the person reading your notebook. This differs from the non-technical presentation.
-
-Along with the presentation, the notebook also describes the project ***goals, data, methods, and results***. It must include at least ***three visualizations*** which correspond to ***three business recommendations***.
-
-
-
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The capstone projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
