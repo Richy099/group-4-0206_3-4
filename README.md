@@ -66,7 +66,7 @@ Here you will find the steps to connect to the SQLite database and begin manipul
 
 Now to the analysis and results...
 
-* Business Question #1: How much, on average, should Computing Vision invest into producing movies?
+### Business Question #1: How much, on average, should Computing Vision invest into producing movies?
 
 ![movie_revenue](/Images/bizRec1.png)
 
@@ -77,7 +77,7 @@ Now to the analysis and results...
     * The top 25 and top 50 of the top 10 Studios have on average spent 440 millions and 680 million dollars
 
 
-* Business Question #2: Which movies should Computing Vision focus on based on total realized profits and profit?
+### Business Question #2: Which movies should Computing Vision focus on based on total realized profits and profit?
 
 ![genre](/Images/top10profitByGenre.jpg)
 
@@ -87,7 +87,7 @@ Now to the analysis and results...
     * Adventure and comedy respectively totaled roughly $2.8 billion and $1.5 billion
 
 
-* Business Question #3: When should Computing Vision release its movies?
+### Business Question #3: When should Computing Vision release its movies?
 
 ![seasonRev](/Images/revenueBySeason.jpg)
 ![seasonProfit](/Images/highestProfitMonth.jpg)
