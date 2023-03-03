@@ -68,6 +68,8 @@ Now to the analysis and results...
 
 * Business Question #1: How much, on average, should Computing Vision invest into producing movies?
 
+![movie_revenue](/Images/bizRec1.png)
+
 * Recommendation #1: Follow the Leaders. With tudios making billions of dollars in profit, Computing Vision should invest on average between $440 and $680 million to maximize their ROI
     * The top 10 studios have raked in on average about 1.4 billion dollars in Revenue
     * The top studios have generated about 1.2 billion dollars in Profit on average
@@ -77,6 +79,8 @@ Now to the analysis and results...
 
 * Business Question #2: Which movies should Computing Vision focus on based on total realized profits and profit?
 
+![genre](/Images/top10profitByGenre.jpg)
+
 * Recommendation #2: Pick the right genre. With all kinds of movie genres in the movie, Computing Vision should invest in making action, adventure, and comedy.
     * The top 3 movie genres raked in more than $1 billion each in profit 
     * Action genres are the most successful with about $6.5 billion in total profit
@@ -84,6 +88,10 @@ Now to the analysis and results...
 
 
 * Business Question #3: When should Computing Vision release its movies?
+
+![seasonRev](/Images/revenueBySeason.jpg)
+![seasonProfit](/Images/highestProfitMonth.jpg)
+
 * Recommendation #3: Pick the right season. The best time to release a movie is in the summer, specifically in the month of June.
     * Summer brought in the most ROI with about $4.5 billion
     * The month of June is the best time to release a movie in the summer
@@ -103,4 +111,5 @@ We would strongly recommend bolstering today's insights with the following infor
       * Streaming
       * On-demand
 
-### Thank You!
+
+## Thank You!
