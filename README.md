@@ -59,17 +59,62 @@ The list of files available in the Data folder are as follows:
   * An updated, reformatted version of the above.
 
 
-### Data Analysis
+### Data Analysis and Statistical Inference
 After cloning this repo, navigate to the `group-4-0206_3-4` directory in your terminal. Launch your local Jupyter notebook by typing `jupyter noteook` and navigate to the file `final_group4_notebook`within the Notebooks folder.
 
 Here you will find the steps to connect to the SQLite database and begin manipulating the data necessary for analysis
 
+Now to the analysis and results...
 
-### Statistical Communication
-- Results of statistical inference 
-- Interpretation of these results in the context of the problem
+### Business Question #1: How much, on average, should Computing Vision invest into producing movies?
+
+![movie_revenue](/Images/bizRec1.png)
+
+* Recommendation #1: Follow the Leaders. With tudios making billions of dollars in profit, Computing Vision should invest on average between $440 and $680 million to maximize their ROI
+    * The top 10 studios have raked in on average about 1.4 billion dollars in Revenue
+    * The top studios have generated about 1.2 billion dollars in Profit on average
+    * Studios invested on an average budget/cost of about 440 million dollars. 
+    * The top 25 and top 50 of the top 10 Studios have on average spent 440 millions and 680 million dollars
+
+
+
+
+
+### Business Question #2: Which movies should Computing Vision focus on based on total realized profits and profit?
+
+![genre](/Images/top10profitByGenre.jpg)
+
+* Recommendation #2: Pick the right genre. With all kinds of movie genres in the movie, Computing Vision should invest in making action, adventure, and comedy.
+    * The top 3 movie genres raked in more than $1 billion each in profit 
+    * Action genres are the most successful with about $6.5 billion in total profit
+    * Adventure and comedy respectively totaled roughly $2.8 billion and $1.5 billion
+
+
+
+
+### Business Question #3: When should Computing Vision release its movies?
+
+![seasonRev](/Images/revenueBySeason.jpg)
+![seasonProfit](/Images/highestProfitMonth.jpg)
+
+* Recommendation #3: Pick the right season. The best time to release a movie is in the summer, specifically in the month of June.
+    * Summer brought in the most ROI with about $4.5 billion
+    * The month of June is the best time to release a movie in the summer
+    * August is the least profitable month in summer to release a movie
 
 
 ### Conclusion
-- Summary of conclusions including three relevant findings 
+In addition to our team's recommendations of:
+  * Follow the leaders
+  * Pick the right genre
+  * Pick the right season
 
+We would strongly recommend bolstering today's insights with the following informationL
+  * Include latest performance data (post-2017)
+  * Additional research (qualitative analysis; surveys)
+  * Consider performance across other distributions, such as:
+      * Streaming
+      * On-demand
+
+
+## Thank You!
