@@ -9,8 +9,13 @@ We have been tasked with consulting new movie studio, Computing Vision, to explo
 
 ### Business Understanding
 
-- Stakeholder and Key Biz Questions
+Our team targeted two financial metrics for measuring the success of a movie's box office release:
+* Total Gross Revenue
+* Movie Profitability -- the return on investment (ROI) of a film
 
+There are several other attributes that can be used to measure movie success - such as popularity, review scores, critically acclaimed, etc. - however, we determined the financial success to be a universally agreeable measure of success, and more importantly -- why Computing Vision is interested in entering the space in the first place.
+
+With gross revenue and profitability as our central focus -- next was to identify our three key business questions we determined were most important for Computing Vision to have answered:
 
 ### Data Understanding
 
