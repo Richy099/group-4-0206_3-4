@@ -77,6 +77,8 @@ Now to the analysis and results...
     * The top 25 and top 50 of the top 10 Studios have on average spent 440 millions and 680 million dollars
 
 
+
+
 ### Business Question #2: Which movies should Computing Vision focus on based on total realized profits and profit?
 
 ![genre](/Images/top10profitByGenre.jpg)
@@ -85,6 +87,8 @@ Now to the analysis and results...
     * The top 3 movie genres raked in more than $1 billion each in profit 
     * Action genres are the most successful with about $6.5 billion in total profit
     * Adventure and comedy respectively totaled roughly $2.8 billion and $1.5 billion
+
+
 
 
 ### Business Question #3: When should Computing Vision release its movies?
