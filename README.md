@@ -17,6 +17,12 @@ There are several other attributes that can be used to measure movie success - s
 
 With gross revenue and profitability as our central focus -- next was to identify our three key business questions we determined were most important for Computing Vision to have answered:
 
+* How much, on average, should Computing Vision invest into producing movies?
+* What genres of movies should Computing Vision focus on based on total realized profits and profit?
+* Which season is best for Computing Vision to release movies?
+
+By completing the thorough data analysis steps seen below -- we are to produce our recommendations for Computng Vision.
+
 ### Data Understanding
 
 In the folder `Data/original_data` are movie datasets from the following movie websites:
@@ -53,7 +59,7 @@ The list of files available in the Data folder are as follows:
   * An updated, reformatted version of the above.
 
 
-### Data Understanding
+### Data Analysis
 After cloning this repo, navigate to the `group-4-0206_3-4` directory in your terminal. Launch your local Jupyter notebook by typing `jupyter noteook` and navigate to the file `final_group4_notebook`within the Notebooks folder.
 
 Here you will find the steps to connect to the SQLite database and begin manipulating the data necessary for analysis
