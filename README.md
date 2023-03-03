@@ -79,6 +79,7 @@ Now to the analysis and results...
 
 
 
+
 ### Business Question #2: Which movies should Computing Vision focus on based on total realized profits and profit?
 
 ![genre](/Images/top10profitByGenre.jpg)
